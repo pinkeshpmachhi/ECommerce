@@ -1,0 +1,180 @@
+{
+  "project_info": {
+    "project_number": "991430819686",
+    "firebase_url": "https://newsok-database-default-rtdb.firebaseio.com",
+    "project_id": "newsok-database",
+    "storage_bucket": "newsok-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991430819686:android:a3be2d99f61a87137612a7",
+        "android_client_info": {
+          "package_name": "com.p2m.backendecommorce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWP-zbi7FVyreK7-rYVp2C1FjDqwQRp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991430819686:android:141a051eeacb52607612a7",
+        "android_client_info": {
+          "package_name": "com.p2m.ecommercefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWP-zbi7FVyreK7-rYVp2C1FjDqwQRp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991430819686:android:5aff5238e6336e817612a7",
+        "android_client_info": {
+          "package_name": "com.p2m.ecommorceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991430819686-35vcattvvg9qr8066bm1idqoqpm35rql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.p2m.ecommorceapp",
+            "certificate_hash": "620ebc0971a320c9fbdc31b75328ad0a7c755896"
+          }
+        },
+        {
+          "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWP-zbi7FVyreK7-rYVp2C1FjDqwQRp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991430819686:android:e7923eeb952c722b7612a7",
+        "android_client_info": {
+          "package_name": "com.p2m.swhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991430819686-caospsttan0vsuj0fe2ald35t9t68b13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.p2m.swhatsapp",
+            "certificate_hash": "620ebc0971a320c9fbdc31b75328ad0a7c755896"
+          }
+        },
+        {
+          "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWP-zbi7FVyreK7-rYVp2C1FjDqwQRp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991430819686:android:de2db9106155a6e27612a7",
+        "android_client_info": {
+          "package_name": "com.p2m.tailorecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991430819686-pm6rbp6ukrmlr6h4tv89rcuslsve32d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.p2m.tailorecommerce",
+            "certificate_hash": "620ebc0971a320c9fbdc31b75328ad0a7c755896"
+          }
+        },
+        {
+          "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWP-zbi7FVyreK7-rYVp2C1FjDqwQRp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991430819686-4hek21iaur6abenhuv38npd2tv1mvmsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
